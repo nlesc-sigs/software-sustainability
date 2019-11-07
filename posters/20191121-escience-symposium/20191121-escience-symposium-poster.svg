@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="841mm"
+   height="1189mm"
+   viewBox="0 0 841 1189"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="20191121-escience-symposium-poster.svg"
+   inkscape:export-filename="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/20191121-escience-symposium-poster.svg.png"
+   inkscape:export-xdpi="299.95901"
+   inkscape:export-ydpi="299.95901">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.1682296"
+     inkscape:cx="1369.3538"
+     inkscape:cy="2246.9291"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1880"
+     inkscape:window-height="974"
+     inkscape:window-x="20"
+     inkscape:window-y="52"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="background"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/bg.png"
+       xlink:href="bg.png"
+       y="0.013061523"
+       x="0.0029907227"
+       id="image582"
+       preserveAspectRatio="none"
+       height="1188.9739"
+       width="840.99402" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="content">
+    <rect
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.75;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect809"
+       width="839.5448"
+       height="92.690865"
+       x="0"
+       y="2.2737368e-13" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:Akkurat-Light;-inkscape-font-specification:'Akkurat-Light Ultra-Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="284.46506"
+       y="180.05466"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         x="284.46506"
+         y="189.84424"
+         style="stroke-width:0.26458332px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.08292294px;line-height:125%;font-family:Akkurat-Mono;-inkscape-font-specification:Akkurat-Mono;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.27707309px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="420.79977"
+       y="185.21068"
+       id="text19"><tspan
+         sodipodi:role="line"
+         id="tspan17"
+         x="420.79977"
+         y="185.21068"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.45913696px;font-family:Akkurat;-inkscape-font-specification:Akkurat;text-align:center;text-anchor:middle;stroke-width:0.27707309px">fair-software.nl</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot25"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:40px;line-height:125%;font-family:Akkurat-Light;-inkscape-font-specification:'Akkurat-Light Ultra-Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.22875315,0,0,0.22875315,-166.06913,11.204997)"><flowRegion
+         id="flowRegion27"><rect
+           id="rect29"
+           width="3443.7273"
+           height="828.8562"
+           x="841.59174"
+           y="861.72552" /></flowRegion><flowPara
+         style="font-size:171.18161011px;line-height:125%;text-align:center;text-anchor:middle"
+         id="flowPara140">What can you do to be more FAIR?</flowPara></flowRoot>    <g
+       id="g1005"
+       transform="translate(14.154762,-7.8637755)">
+      <image
+         sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/1-repository-logo.png"
+         xlink:href="1-repository-logo.png"
+         width="52.46072"
+         height="98.211349"
+         preserveAspectRatio="none"
+         id="image76"
+         x="79.851852"
+         y="346.78925" />
+      <image
+         sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/1-repository-text.png"
+         xlink:href="1-repository-text.png"
+         width="174.30991"
+         height="130.3893"
+         preserveAspectRatio="none"
+         id="image154"
+         x="221.7912"
+         y="329.43423" />
+    </g>
+    <g
+       id="g1009"
+       transform="translate(14.154762,-23.67178)">
+      <image
+         sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/2-license-logo.png"
+         xlink:href="2-license-logo.png"
+         width="84.18116"
+         height="82.046127"
+         preserveAspectRatio="none"
+         id="image165"
+         x="70.384125"
+         y="519.26617" />
+      <image
+         sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/2-license-text.png"
+         xlink:href="2-license-text.png"
+         width="163.05525"
+         height="41.724575"
+         preserveAspectRatio="none"
+         id="image176"
+         x="221.7912"
+         y="539.42694" />
+    </g>
+    <g
+       id="g1013"
+       transform="translate(14.154762,11.592487)">
+      <image
+         sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/3-registry-logo.png"
+         xlink:href="3-registry-logo.png"
+         width="69.84597"
+         height="66.185913"
+         preserveAspectRatio="none"
+         id="image187"
+         x="77.551697"
+         y="630.8042" />
+      <image
+         sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/3-registry-text.png"
+         xlink:href="3-registry-text.png"
+         width="170.46684"
+         height="108.42901"
+         preserveAspectRatio="none"
+         id="image198"
+         x="221.7912"
+         y="609.68268" />
+    </g>
+    <g
+       id="g1017"
+       transform="translate(14.154762,-4.4805465)">
+      <image
+         sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/4-citation-logo.png"
+         xlink:href="4-citation-logo.png"
+         width="53.070732"
+         height="82.046127"
+         preserveAspectRatio="none"
+         id="image209"
+         x="85.939331"
+         y="779.7561" />
+      <image
+         sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/4-citation-text.png"
+         xlink:href="4-citation-text.png"
+         width="187.21156"
+         height="85.919685"
+         preserveAspectRatio="none"
+         id="image220"
+         x="221.7912"
+         y="777.81934" />
+    </g>
+    <g
+       id="g1021"
+       transform="translate(14.154762,-7.8637615)">
+      <image
+         sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/5-checklist-logo.png"
+         xlink:href="5-checklist-logo.png"
+         width="57.035786"
+         height="89.061241"
+         preserveAspectRatio="none"
+         id="image231"
+         x="86.087631"
+         y="910.75684" />
+      <image
+         sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/5-checklist-text.png"
+         xlink:href="5-checklist-text.png"
+         width="165.25127"
+         height="85.919685"
+         preserveAspectRatio="none"
+         id="image242"
+         x="221.7912"
+         y="912.32764" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot401"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:40px;line-height:125%;font-family:Akkurat-Light;-inkscape-font-specification:'Akkurat-Light Ultra-Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-26.159291,65.332822)"><flowRegion
+         id="flowRegion403"
+         style="line-height:125%"><rect
+           id="rect405"
+           width="1218.6639"
+           height="489.74326"
+           x="1862.1641"
+           y="1168.1587"
+           style="line-height:125%" /></flowRegion><flowPara
+         id="flowPara407"
+         style="font-size:74.66666412px;line-height:125%">GitHub, Bitbucket, GitLab</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot401-0"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:40px;line-height:125%;font-family:Akkurat-Light;-inkscape-font-specification:'Akkurat-Light Ultra-Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-26.159291,214.15788)"><flowRegion
+         id="flowRegion403-2"
+         style="line-height:125%"><rect
+           id="rect405-2"
+           width="1224.3585"
+           height="478.35388"
+           x="1862.1641"
+           y="1168.1587"
+           style="line-height:125%" /></flowRegion><flowPara
+         style="font-size:74.66666412px;line-height:125%"
+         id="flowPara136">tldrlegal.com, choosealicense.com</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot401-7"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:40px;line-height:125%;font-family:Akkurat-Light;-inkscape-font-specification:'Akkurat-Light Ultra-Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-26.159291,353.03009)"><flowRegion
+         id="flowRegion403-4"
+         style="line-height:125%"><rect
+           id="rect405-3"
+           width="1207.2745"
+           height="484.04858"
+           x="1862.1641"
+           y="1168.1587"
+           style="line-height:125%" /></flowRegion><flowPara
+         id="flowPara407-5"
+         style="font-size:74.66666412px;line-height:125%">bit.ly/awesome-registries</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot401-6"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:40px;line-height:125%;font-family:Akkurat-Light;-inkscape-font-specification:'Akkurat-Light Ultra-Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-26.159291,494.86634)"><flowRegion
+         id="flowRegion403-1"
+         style="line-height:125%"><rect
+           id="rect405-4"
+           width="1201.5798"
+           height="472.65918"
+           x="1862.1641"
+           y="1168.1587"
+           style="line-height:125%" /></flowRegion><flowPara
+         id="flowPara407-0"
+         style="font-size:74.66666412px;line-height:125%">CodeMeta, The Citation File Format</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot401-3"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:40px;line-height:125%;font-family:Akkurat-Light;-inkscape-font-specification:'Akkurat-Light Ultra-Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,-26.159291,625.14192)"><flowRegion
+         id="flowRegion403-12"
+         style="line-height:125%"><rect
+           id="rect405-7"
+           width="907.61133"
+           height="466.46536"
+           x="1862.1641"
+           y="1168.1587"
+           style="line-height:125%" /></flowRegion><flowPara
+         id="flowPara407-7"
+         style="font-size:74.66666412px;line-height:125%">Basically, any checklist will do.</flowPara></flowRoot>    <g
+       transform="matrix(0.48384694,0,0,-0.48384694,564.79781,58.735497)"
+       inkscape:label="ink_ext_XXXXXX"
+       id="g690">
+      <g
+         transform="scale(0.1)"
+         id="g692">
+        <path
+           inkscape:connector-curvature="0"
+           id="path694"
+           style="fill:#0aafde;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 480.426,451.184 h 0.226 C 450.52,572.961 342.617,607.156 222.828,607.156 H 96.6641 V 146.094 h 55.7769 v 305.09 h 36.684 v 83.308 h 51.523 c 55.391,0 109.25,-29.648 135.426,-83.308 H 257.211 V 145.781 h 25.5 c 108.102,0 212.465,80.371 212.465,220.782 0,31.347 -5.414,59.531 -14.75,84.621" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path696"
+           style="fill:#0aafde;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 830.453,605.52 h -81.492 l -60.113,-154.25 87.875,0.031 z m 83.27,-154.25 H 688.848 L 569.566,145.168 h 95.629 L 705.43,250.691 H 892.086 L 931.648,145.168 H 1033.88 L 913.723,451.27" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path698"
+           style="fill:#0aafde;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 1487.3,605.52 V 323.281 h -65.07 L 1278.4,605.52 H 1164.98 V 451.27 145.168 h 88.37 V 451.27 h 20.85 l 156.57,-306.102 h 112.78 v 178.191 l 53.15,0.039 V 605.52 h -109.4" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path700"
+           style="fill:#0aafde;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1844.17,476.914 c 0,50.129 40.89,63.977 72.55,63.977 31.23,0 62.46,-6.789 90.72,-18.555 V 600.5 c -30.5,8.77 -63.53,12.938 -98.65,12.938 -81.11,0 -171.11,-37.637 -171.11,-140.528 0,-71.047 43.06,-110.359 86.52,-137.988 1.57,-0.996 17.37,23.058 19.07,22.324 52.09,-22.246 106.44,-42.754 106.44,-88.086 0,-41.562 -46.83,-59.363 -81.79,-59.363 -9.32,0 -18.63,0.75 -27.87,2.137 v -73.477 c 9.86,-0.789 20.64,-1.199 33.15,-1.199 53.25,0 102.14,12.578 134.24,42.246 v 188.902 c -58.59,52.395 -163.27,51.028 -163.27,108.508" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path702"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 268.809,700.715 h 11.656 c 21.781,0 35.312,14.082 35.312,34.871 0,13.199 -6.05,22.551 -28.379,22.551 h -6.382 z m 3.078,67.098 h 16.941 c 27.055,0 38.61,-13.75 38.61,-31.016 0,-27.281 -16.833,-45.762 -48.954,-45.762 h -22.879 l 16.282,76.778" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path704"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 371.98,717.984 h -7.917 c -7.809,0 -19.583,-2.089 -19.583,-12.32 0,-4.949 4.293,-7.59 9.247,-7.59 10.449,0 17.05,10.449 18.253,19.91 z m -25.402,27.614 c 4.945,1.648 11.547,2.859 15.613,2.859 11.332,0 22.223,-4.402 22.223,-17.82 0,-2.532 -0.437,-6.164 -0.992,-8.801 -2.09,-10.449 -4.399,-20.898 -5.828,-30.801 h -9.571 c 0.551,2.75 1.211,6.051 1.872,9.352 h -0.223 c -3.52,-6.711 -10.777,-10.668 -18.254,-10.668 -9.465,0 -17.934,4.945 -17.934,15.508 0,15.949 14.411,20.457 33.219,20.457 2.203,0 4.953,-0.219 7.481,-0.329 0.218,1.098 0.55,2.313 0.55,3.629 0,8.032 -5.281,11.11 -12.871,11.11 -6.047,0 -12.539,-1.981 -17.156,-4.727 l 1.871,10.231" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path706"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 400.145,747.133 h 12.543 l 2.746,12.984 11.113,3.848 -3.52,-16.832 h 15.403 l -1.653,-8.36 h -15.511 l -5.168,-24.085 c -0.551,-2.536 -1.649,-8.583 -1.649,-10.563 0,-3.957 2.196,-6.051 7.481,-6.051 2.195,0 5.277,0.551 7.254,1.434 l -1.539,-8.578 c -2.309,-0.887 -7.149,-1.211 -10.122,-1.211 -9.789,0 -13.418,6.488 -13.418,12.426 0,3.632 1.321,10.121 1.985,13.203 l 4.84,23.425 h -12.321 l 1.536,8.36" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path708"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 476.371,717.984 h -7.918 c -7.808,0 -19.574,-2.089 -19.574,-12.32 0,-4.949 4.285,-7.59 9.234,-7.59 10.45,0 17.055,10.449 18.258,19.91 z m -25.402,27.614 c 4.945,1.648 11.547,2.859 15.613,2.859 11.332,0 22.223,-4.402 22.223,-17.82 0,-2.532 -0.442,-6.164 -0.992,-8.801 -2.09,-10.449 -4.399,-20.898 -5.833,-30.801 h -9.57 c 0.555,2.75 1.211,6.051 1.871,9.352 h -0.218 c -3.52,-6.711 -10.778,-10.668 -18.258,-10.668 -9.461,0 -17.93,4.945 -17.93,15.508 0,15.949 14.41,20.457 33.219,20.457 2.203,0 4.953,-0.219 7.48,-0.329 0.219,1.098 0.551,2.313 0.551,3.629 0,8.032 -5.281,11.11 -12.871,11.11 -6.051,0 -12.539,-1.981 -17.156,-4.727 l 1.871,10.231" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path710"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 577.133,755.934 -23.211,-36.52 h 30.469 z m -3.52,11.879 h 10.891 l 16.937,-76.778 h -11.328 l -4.074,19.36 h -37.726 l -12.321,-19.36 h -12.207 l 49.828,76.778" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path712"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 620.469,738.555 c 0.445,2.308 1.101,5.277 1.543,8.578 h 9.676 l -1.754,-8.91 h 0.218 c 3.301,5.285 9.352,10.234 19.141,10.234 0.984,0 2.75,-0.227 4.727,-0.992 l -2.309,-9.129 c -1.981,0.769 -3.629,1.098 -4.402,1.098 -12.758,0 -19.028,-13.86 -20.457,-20.789 l -5.832,-27.61 h -10.34 l 9.789,47.52" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path714"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 697.578,737.344 c -3.629,1.98 -7.148,2.75 -10.012,2.75 -13.308,0 -21.554,-11.77 -21.554,-25.406 0,-10.454 5.277,-16.614 15.176,-16.614 3.519,0 8.031,1.211 11.332,2.531 l -1.872,-9.57 c -3.414,-0.992 -7.152,-1.316 -10.781,-1.316 -14.847,0 -24.855,7.918 -24.855,23.426 0,19.027 11.105,35.312 30.578,35.312 5.937,0 10.34,-0.769 14.515,-2.203 l -2.527,-8.91" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path716"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 720.02,773.535 h 10.339 l -6.925,-33.441 h 0.218 c 3.848,5.609 10.668,8.363 17.711,8.363 10.887,0 18.696,-5.723 18.696,-17.602 0,-3.3 -0.661,-7.042 -1.321,-10.23 l -6.156,-29.59 h -10.34 l 6.93,33.551 c 0.332,1.867 0.551,4.07 0.551,5.277 0,5.828 -3.856,10.231 -10.231,10.231 -12.758,0 -19.031,-13.86 -20.461,-20.785 l -5.941,-28.274 h -10.34 l 17.27,82.5" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path718"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 796.469,759.672 h -11.66 l 2.418,11.66 h 11.66 z m -13.75,-12.539 h 10.34 L 781.176,691.035 H 770.84 l 11.879,56.098" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path720"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 804.719,747.133 h 11 l 5.722,-45.317 h 0.219 l 24.973,45.317 h 10.996 L 825.621,691.035 H 813.52 l -8.801,56.098" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path722"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 882.488,759.672 h -11.66 l 2.418,11.66 h 11.66 z m -13.75,-12.539 h 10.34 l -11.883,-56.098 h -10.336 l 11.879,56.098" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path724"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 896.785,738.555 c 0.445,2.308 1.106,5.277 1.543,8.578 h 9.68 l -1.758,-8.91 h 0.219 c 3.301,5.285 9.351,10.234 19.14,10.234 10.891,0 18.7,-5.723 18.7,-17.602 0,-3.3 -0.661,-7.042 -1.321,-10.23 l -6.156,-29.59 h -10.344 l 6.93,33.551 c 0.332,1.867 0.551,4.07 0.551,5.277 0,5.828 -3.852,10.231 -10.231,10.231 -12.758,0 -19.031,-13.86 -20.457,-20.785 l -5.941,-28.274 h -10.344 l 9.789,47.52" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path726"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 980.055,699.395 c 9.023,0 19.254,7.043 19.254,25.41 0,8.359 -4.954,15.289 -13.973,15.289 -11.992,0 -17.82,-15.289 -17.82,-26.071 0,-7.367 3.961,-14.628 12.539,-14.628 z m 34.875,47.738 -12.87,-60.168 c -2.427,-11.11 -12.876,-20.348 -30.146,-20.348 -3.516,0 -12.644,0.988 -18.809,4.067 l 2.309,9.242 c 5.172,-2.746 11.992,-4.949 17.93,-4.949 11.883,0 17.492,7.699 19.582,16.39 l 1.429,6.051 h -0.218 c -3.41,-4.074 -7.699,-6.383 -16.719,-6.383 -9.902,0 -20.902,7.813 -20.902,22.442 0,20.679 12.101,35.199 28.269,34.98 7.594,0 15.18,-3.301 18.365,-11.223 h 0.22 l 1.99,9.899 h 9.57" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path728"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1090.17,717.984 h -7.92 c -7.81,0 -19.58,-2.089 -19.58,-12.32 0,-4.949 4.29,-7.59 9.24,-7.59 10.45,0 17.05,10.449 18.26,19.91 z m -25.41,27.614 c 4.95,1.648 11.55,2.859 15.62,2.859 11.33,0 22.22,-4.402 22.22,-17.82 0,-2.532 -0.44,-6.164 -0.99,-8.801 -2.09,-10.449 -4.4,-20.898 -5.83,-30.801 h -9.57 c 0.55,2.75 1.21,6.051 1.87,9.352 h -0.22 c -3.52,-6.711 -10.78,-10.668 -18.26,-10.668 -9.46,0 -17.93,4.945 -17.93,15.508 0,15.949 14.41,20.457 33.22,20.457 2.2,0 4.95,-0.219 7.48,-0.329 0.22,1.098 0.55,2.313 0.55,3.629 0,8.032 -5.28,11.11 -12.87,11.11 -6.05,0 -12.54,-1.981 -17.16,-4.727 l 1.87,10.231" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path730"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1123.82,738.555 c 0.45,2.308 1.11,5.277 1.55,8.578 h 9.67 l -1.75,-8.91 h 0.22 c 3.3,5.285 9.35,10.234 19.14,10.234 10.89,0 18.69,-5.723 18.69,-17.602 0,-3.3 -0.66,-7.042 -1.32,-10.23 l -6.15,-29.59 h -10.34 l 6.92,33.551 c 0.34,1.867 0.56,4.07 0.56,5.277 0,5.828 -3.86,10.231 -10.23,10.231 -12.76,0 -19.04,-13.86 -20.46,-20.785 l -5.94,-28.274 h -10.35 l 9.79,47.52" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path732"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1207.43,698.074 c 12.98,0 18.92,16.168 18.92,26.731 0,8.359 -4.95,15.289 -13.97,15.289 -12.21,0 -18.59,-15.508 -18.59,-26.071 0,-8.906 4.18,-15.949 13.64,-15.949 z m 26.51,11.551 c -1.32,-6.27 -2.42,-12.43 -3.19,-18.59 h -9.69 c 0.56,2.641 1,5.719 1.87,8.578 h -0.22 c -3.84,-7.48 -10.66,-9.894 -19.13,-9.894 -13.53,0 -20.79,10.773 -20.79,23.539 0,17.597 9.9,35.199 29.04,35.199 7.59,0 14.84,-3.301 18.04,-10.562 h 0.22 l 7.37,35.64 h 10.34 l -13.86,-63.91" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path734"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1296.42,767.813 h 14.51 l 21.67,-64.344 h 0.22 l 13.64,64.344 h 10.45 l -16.71,-76.778 h -14.19 l -21.67,63.801 h -0.22 l -13.09,-63.801 h -10.57 l 15.96,76.778" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path736"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1401.79,724.473 c 0.22,1.652 0.33,2.972 0.33,4.293 0,6.601 -4.07,11.328 -11.88,11.328 -8.47,0 -14.96,-7.367 -17.16,-15.621 z m 1.33,-32.446 c -5.4,-1.324 -11.01,-2.308 -16.62,-2.308 -13.64,0 -25.85,5.496 -25.85,25.297 0,15.511 10.89,33.441 30.69,33.441 13.53,0 21.12,-8.144 21.12,-21.449 0,-3.742 -0.44,-6.934 -0.99,-10.231 h -39.49 c -0.22,-1.211 -0.32,-2.312 -0.32,-3.519 0,-11.774 7.25,-15.184 17.26,-15.184 5.17,0 10.78,1.321 15.84,3.41 l -1.64,-9.457" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path738"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1425,747.133 h 12.54 l 2.75,12.984 11.12,3.848 -3.52,-16.832 h 15.4 l -1.65,-8.36 h -15.52 l -5.16,-24.085 c -0.55,-2.536 -1.65,-8.583 -1.65,-10.563 0,-3.957 2.19,-6.051 7.48,-6.051 2.19,0 5.28,0.551 7.25,1.434 l -1.54,-8.578 c -2.3,-0.887 -7.14,-1.211 -10.12,-1.211 -9.79,0 -13.42,6.488 -13.42,12.426 0,3.632 1.32,10.121 1.99,13.203 l 4.84,23.425 h -12.32 l 1.53,8.36" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path740"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1467.46,747.133 h 10.34 l 3.85,-45.098 h 0.23 l 23.97,45.098 h 12.54 l 3.85,-45.098 h 0.22 l 23.32,45.098 h 11.44 l -30.69,-56.098 h -11.88 l -4.4,45.098 h -0.22 l -24.2,-45.098 h -12.21 l -6.16,56.098" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path742"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1582.3,698.074 c 11.66,0 20.46,13.199 20.46,25.852 0,8.359 -4.95,16.168 -14.3,16.168 -13.75,0 -20.56,-14.52 -20.56,-26.176 0,-8.914 4.61,-15.844 14.4,-15.844 z m 6.6,50.383 c 15.07,0 24.86,-9.133 24.86,-24.531 0,-19.028 -11.22,-34.207 -31.35,-34.207 -15.4,0 -25.52,8.355 -25.52,24.969 0,18.695 11.44,33.769 32.01,33.769" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path744"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1632.79,738.555 c 0.44,2.308 1.1,5.277 1.54,8.578 h 9.68 l -1.76,-8.91 h 0.22 c 3.3,5.285 9.35,10.234 19.14,10.234 0.99,0 2.75,-0.227 4.73,-0.992 l -2.31,-9.129 c -1.98,0.769 -3.63,1.098 -4.4,1.098 -12.76,0 -19.03,-13.86 -20.46,-20.789 l -5.83,-27.61 H 1623 l 9.79,47.52" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path746"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1683.5,773.535 h 10.34 l -10.45,-48.398 h 0.22 l 26.07,21.996 h 15.18 l -31.79,-24.86 22.88,-31.238 h -13.2 l -20.35,28.82 -6.05,-28.82 h -10.34 l 17.49,82.5" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path748"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1769.85,724.473 c 0.22,1.652 0.33,2.972 0.33,4.293 0,6.601 -4.07,11.328 -11.88,11.328 -8.47,0 -14.96,-7.367 -17.16,-15.621 z m 1.32,-32.446 c -5.39,-1.324 -11,-2.308 -16.61,-2.308 -13.64,0 -25.85,5.496 -25.85,25.297 0,15.511 10.89,33.441 30.69,33.441 13.53,0 21.12,-8.144 21.12,-21.449 0,-3.742 -0.44,-6.934 -0.99,-10.231 h -39.49 c -0.22,-1.211 -0.33,-2.312 -0.33,-3.519 0,-11.774 7.26,-15.184 17.27,-15.184 5.17,0 10.78,1.321 15.84,3.41 l -1.65,-9.457" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path750"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1814.73,698.074 c 12.98,0 18.92,16.168 18.92,26.731 0,8.359 -4.95,15.289 -13.97,15.289 -12.21,0 -18.59,-15.508 -18.59,-26.071 0,-8.906 4.18,-15.949 13.64,-15.949 z m 26.51,11.551 c -1.32,-6.27 -2.42,-12.43 -3.19,-18.59 h -9.68 c 0.55,2.641 0.99,5.719 1.87,8.578 h -0.22 c -3.85,-7.48 -10.67,-9.894 -19.14,-9.894 -13.53,0 -20.79,10.773 -20.79,23.539 0,17.597 9.9,35.199 29.04,35.199 7.59,0 14.85,-3.301 18.04,-10.562 h 0.22 l 7.37,35.64 h 10.34 l -13.86,-63.91" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path752"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1935.95,755.715 c -3.63,2.199 -8.14,3.738 -13.97,3.738 -7.26,0 -15.18,-2.855 -15.18,-11.988 0,-12.871 26.18,-12.985 26.18,-33.11 0,-11.55 -8.03,-24.636 -26.51,-24.636 -8.91,0 -15.29,1.976 -21.45,4.398 l 3.52,10.117 c 4.51,-2.855 10.78,-4.839 16.17,-4.839 11.66,0 16.61,7.261 16.61,13.64 0,15.621 -26.18,12.867 -26.18,34.211 0,13.969 12.76,21.891 25.41,21.891 6.38,0 12.65,-1.211 18.48,-3.633 l -3.08,-9.789" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path754"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1984.68,724.473 c 0.22,1.652 0.33,2.972 0.33,4.293 0,6.601 -4.07,11.328 -11.88,11.328 -8.47,0 -14.96,-7.367 -17.16,-15.621 z m 1.32,-32.446 c -5.39,-1.324 -11,-2.308 -16.61,-2.308 -13.64,0 -25.85,5.496 -25.85,25.297 0,15.511 10.89,33.441 30.69,33.441 13.53,0 21.12,-8.144 21.12,-21.449 0,-3.742 -0.44,-6.934 -0.99,-10.231 h -39.49 c -0.22,-1.211 -0.33,-2.312 -0.33,-3.519 0,-11.774 7.26,-15.184 17.27,-15.184 5.17,0 10.78,1.321 15.84,3.41 l -1.65,-9.457" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path756"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 2013.39,738.555 c 0.44,2.308 1.1,5.277 1.54,8.578 h 9.68 l -1.76,-8.91 h 0.22 c 3.3,5.285 9.35,10.234 19.14,10.234 0.99,0 2.75,-0.227 4.73,-0.992 l -2.31,-9.129 c -1.98,0.769 -3.63,1.098 -4.4,1.098 -12.76,0 -19.03,-13.86 -20.46,-20.789 l -5.83,-27.61 h -10.34 l 9.79,47.52" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path758"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 2050.35,747.133 h 11 l 5.72,-45.317 h 0.22 l 24.97,45.317 h 11 l -32.01,-56.098 h -12.1 l -8.8,56.098" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path760"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 2128.12,759.672 h -11.66 l 2.42,11.66 h 11.66 z m -13.75,-12.539 h 10.34 l -11.88,-56.098 h -10.34 l 11.88,56.098" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path762"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 2176.52,737.344 c -3.63,1.98 -7.15,2.75 -10.01,2.75 -13.31,0 -21.56,-11.77 -21.56,-25.406 0,-10.454 5.28,-16.614 15.18,-16.614 3.52,0 8.03,1.211 11.33,2.531 l -1.87,-9.57 c -3.41,-0.992 -7.15,-1.316 -10.78,-1.316 -14.85,0 -24.86,7.918 -24.86,23.426 0,19.027 11.11,35.312 30.58,35.312 5.94,0 10.34,-0.769 14.52,-2.203 l -2.53,-8.91" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path764"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 2224.15,724.473 c 0.22,1.652 0.33,2.972 0.33,4.293 0,6.601 -4.07,11.328 -11.88,11.328 -8.47,0 -14.96,-7.367 -17.17,-15.621 z m 1.32,-32.446 c -5.39,-1.324 -11,-2.308 -16.61,-2.308 -13.65,0 -25.85,5.496 -25.85,25.297 0,15.511 10.89,33.441 30.69,33.441 13.53,0 21.11,-8.144 21.11,-21.449 0,-3.742 -0.43,-6.934 -0.98,-10.231 h -39.49 c -0.22,-1.211 -0.33,-2.312 -0.33,-3.519 0,-11.774 7.25,-15.184 17.26,-15.184 5.18,0 10.79,1.321 15.84,3.41 l -1.64,-9.457" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path766"
+           style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 2278.93,737.234 c -2.86,1.434 -7.37,2.86 -11.22,2.86 -4.51,0 -10.45,-1.207 -10.45,-6.817 0,-9.57 19.14,-10.011 19.14,-25.632 0,-13.528 -12.43,-17.926 -21.23,-17.926 -8.91,0 -12.21,1.211 -16.39,2.636 l 1.98,8.911 c 4.07,-1.653 8.36,-3.192 12.87,-3.192 5.61,0 11.77,2.313 11.77,8.696 0,9.562 -19.14,10.996 -19.14,25.183 0,11.879 11.88,16.504 21.12,16.504 4.95,0 10.01,-1.211 14.63,-3.082 l -3.08,-8.141" />
+      </g>
+    </g>
+    <image
+       sodipodi:absref="/home/daisycutter/github/nlesc-sigs/software-sustainability/posters/20191121-escience-symposium/logo-nlesc.png"
+       xlink:href="logo-nlesc.png"
+       y="23.904081"
+       x="165.78783"
+       id="image870"
+       preserveAspectRatio="none"
+       height="30.431946"
+       width="335.28345" />
+  </g>
+</svg>

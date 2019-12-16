@@ -3,15 +3,16 @@ trainings is to help people get started with the basics of software engineering.
 The topics of the trainings are based on the five recommendations for FAIR
 software (https://fair-software.nl).
 
-## Proposed dates (tentative)
+## Dates
 
-| date | location |topic | estimate of time needed |
+| date | time | location |topic |
 |-:|:-|:-|:-|
-| 27 January  | VK1+2 at SURFSara | git and GitHub | 3 hours |
-|  3 February | Eulerzaal at CWI  | Research Software Directory | 3 hours |
-| 10 February | VK1+2 at SURFSara | Software quality checklist | 1 hour |
+| 27 January  | 09:30 - 12:30 | VK1+2 at SURFSara | git and GitHub |
+|  3 February | 09:30 - 12:30 | Eulerzaal at CWI  | Research Software Directory |
+| 10 February | 10:30 - 11:30 | VK1+2 at SURFSara | Software quality checklist |
 
 ## First session: ``git`` and GitHub
+**Instructor: Carlos**
 
 ### Topics covered in this meeting
 
@@ -23,19 +24,8 @@ software (https://fair-software.nl).
 - https://swcarpentry.github.io/git-novice/
 - https://guides.github.com/introduction/git-handbook/
 
-### TODO 
-
-- [ ] Arrange for an instructor: ask Mateusz, Carlos
-- [ ] Finalize date
-- [ ] compose email, send invite to All
-
-    _Hello All, 
-    the Software Sustainability SIG is organizing a series of 3 sessions during
-    which we will work on implementing best practices for research software.
-    TODO block agendas
-    TODO: expand_
-
 ## Second session: Research Software Directory
+**Instructor: Jurriaan**
 
 ### Topics covered in this meeting
 
@@ -53,25 +43,11 @@ software (https://fair-software.nl).
 - https://pypi.org/project/cffconvert/
 - https://bit.ly/cffconvert/
 
-## TODO
-
-- [ ] Arrange for an instructor: ask Jurriaan
-- [ ] Finalize dates
-- [ ] compose email, send invite to All
-
-
 ## Third session: Software quality checklist
+**Instructor: Jurriaan**
 
 ### Topics covered in this meeting
-
 - Add the cii checklist badge to your readme, fill it in as much/little as you like.
-
-## TODO
-
-- [ ] Arrange for an instructor: ask Jurriaan
-- [ ] Finalize dates
-- [ ] compose email, send invite to All
-
 
 ---
 
@@ -86,7 +62,3 @@ During later meetings:
     - codeclimate
     - codacy
     - sonarcloud
-
-
-
-

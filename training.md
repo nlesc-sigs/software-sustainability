@@ -5,11 +5,11 @@ software (https://fair-software.nl).
 
 ## Proposed dates (tentative)
 
-| date | topic | estimate of time needed |
-|-:|:-|:-|
-| 27 or 30 January  | git and GitHub | 3 hours |
-|  3 or 6 February  | Research Software Directory | 3 hours |
-| 10 or 13 February | Software quality checklist | 1 hour |
+| date | location |topic | estimate of time needed |
+|-:|:-|:-|:-|
+| 27 January  | VK1+2 at SURFSara | git and GitHub | 3 hours |
+|  3 February | Eulerzaal at CWI  | Research Software Directory | 3 hours |
+| 10 February | VK1+2 at SURFSara | Software quality checklist | 1 hour |
 
 ## First session: ``git`` and GitHub
 

@@ -1,7 +1,7 @@
 Add the following to the onboarding document:
 
 In our software development, we adhere to the _Five recommendations for FAIR
-software_ (https://fair-software.nl). The table below list are preferred choices
+software_ (https://fair-software.nl). The table below lists our preferred choices
 for each of the recommendations. 
 
 | recommendation | NLeSC choice |
@@ -12,6 +12,6 @@ for each of the recommendations.
 | [4. citation](https://fair-software.nl/recommendations/citation) | GitHub-Zenodo integration, Citation File Format | 
 | [5. checklist](https://fair-software.nl/recommendations/checklist) | Core Infrastructures Initiative |
 
-Refer to the recommendations pages for pointers to helpful resources.
+Refer to each of the recommendations pages for pointers to helpful resources.
 
 
